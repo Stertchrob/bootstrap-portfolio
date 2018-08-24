@@ -1,0 +1,31 @@
+head {
+    font-family: 'Oswald', sans-serif;
+
+
+}
+body {
+    font-family: 'Oswald', sans-serif;
+    background-image: url("concrete-texture.png");
+}
+.nav-link {
+    color: #4aaaa5;
+    font-family: 'Oswald', sans-serif;
+}
+.form-control {
+    padding-right: 80%
+}
+.footer {
+    position: relative;
+    margin-top: -150px; /* negative value of footer height */
+    height: 150px;
+    clear:both;
+    padding-top:20px;
+  } 
+#main {
+    border-top: 3px;
+    border-top-color: #4aaaa5;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: #4aaaa5;
+
+}
